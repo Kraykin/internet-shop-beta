@@ -63,7 +63,7 @@ class LineItemsController < ApplicationController
     @line_item.destroy
     
     respond_to do |format|
-      format.html {redirect_to :back}
+      format.html {redirect_to store_path}
       format.json  { head :no_content }
     end
   end
