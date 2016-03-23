@@ -22,7 +22,7 @@
 en:
   layouts:
     application:
-      title: "Pragmatic Bookshelf"
+      title: "Bookshelf"
       home: "Home"
       questions: "Questions"
       news: "News"
