@@ -6,3 +6,7 @@ ru:
       questions: "Вопросы"
       news: "Новости"
       contact: "Контакты"
+  store:
+    index:
+      title_html: "Ваш каталог"
+      add_html: "Добавить в корзину"
