@@ -33,3 +33,22 @@ ru:
       pay_type: "Оплата"
       pay_prompt_html: "Выберете способ оплаты"
       submit: "Заказать"
+  activerecord:
+    models:
+      order: "заказа"
+    attributes:
+      order:
+        address:   "Адрес"
+        name:      "Имя"
+        email:     "E-mail"
+        pay_type:  "Оплата"
+    errors:
+      messages:
+        inclusion: "не выбрана"
+        blank: "не может быть пустым"
+  errors:
+    template:
+      body: "Выявлены проблемы со следующими полями заказа:"
+      header:
+        one: "1 ошибка помешала завершению %{model}"
+        other: "%{count} ошибки помешали завершению %{model}"
