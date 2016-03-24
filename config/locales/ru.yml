@@ -10,3 +10,8 @@ ru:
     index:
       title_html: "Ваш каталог"
       add_html: "Добавить в корзину"
+  carts:
+    cart:
+      title: "Ваша корзина"
+      empty: "Очистить"
+      checkout: "Заказать"
