@@ -23,3 +23,13 @@ ru:
         separator: ","
         delimiter: " "
         format: "%n&nbsp;%u"
+  orders:
+    new:
+      legend: "Пожалуйса, заполните форму заказа"
+    form:
+      name: "Имя"
+      address_html: "Адрес"
+      email: "E-mail"
+      pay_type: "Оплата"
+      pay_prompt_html: "Выберете способ оплаты"
+      submit: "Заказать"
