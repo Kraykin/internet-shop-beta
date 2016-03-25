@@ -47,3 +47,7 @@ group :development do
 end
 
 gem 'jquery-ui-rails'
+
+group :production do
+	gem 'mysql2'
+end
