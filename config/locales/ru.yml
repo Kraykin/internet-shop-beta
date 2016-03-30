@@ -1,6 +1,7 @@
 ru:
   layouts:
     application:
+      site_title: "Книжная полка | интернет-магазин"
       title: "Книжная полка"
       home: "Главная"
       questions: "Вопросы"

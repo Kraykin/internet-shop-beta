@@ -1,6 +1,7 @@
 es:
   layouts:
     application:
+      site_title: "Bookshelf Online Store"
       title: "Publicaciones"
       home: "Inicio"
       questions: "Preguntas"
