@@ -54,6 +54,7 @@ end
 
 gem 'jquery-ui-rails'
 gem 'haml', '~> 4.0'
+gem 'kaminari', '~> 0.14'
 
 group :production do
 	gem 'mysql2'
