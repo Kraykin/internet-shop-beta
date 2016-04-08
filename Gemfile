@@ -53,6 +53,7 @@ group :development do
 end
 
 gem 'jquery-ui-rails'
+gem 'haml', '~> 4.0'
 
 group :production do
 	gem 'mysql2'
